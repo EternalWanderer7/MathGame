@@ -1,6 +1,5 @@
 ﻿public class Mathgame
 {
-    public static int d = 0;
     private static string _dif = "";
     private static int _x = 0;
     private static int _y = 0;
